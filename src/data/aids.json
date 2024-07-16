@@ -1,0 +1,13 @@
+
+[
+    {
+      "id": 1,
+      "name": "Scholarship",
+      "description": "Financial aid for students with excellent academic records."
+    },
+    {
+      "id": 2,
+      "name": "Counseling",
+      "description": "Free counseling services available."
+    }
+  ]

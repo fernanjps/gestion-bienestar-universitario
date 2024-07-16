@@ -1,0 +1,45 @@
+.aid-list {
+    margin-top: 2rem;
+  }
+  
+  .aid-list h3 {
+    margin-bottom: 1rem;
+  }
+  
+  .aid-item {
+    background: #f9f9f9;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+  }
+  
+  .aid-item h4 {
+    margin-bottom: 0.5rem;
+  }
+  
+  .aid-item p {
+    margin: 0.5rem 0;
+  }
+  
+  .aid-item button {
+    margin-right: 0.5rem;
+    background: #007bff;
+    color: #fff;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+  }
+  
+  .aid-item button:hover {
+    background: #0056b3;
+  }
+  
+  .aid-item button:last-child {
+    background: #ff0000;
+  }
+  
+  .aid-item button:last-child:hover {
+    background: #cc0000;
+  }
+  

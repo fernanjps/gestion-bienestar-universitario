@@ -1,0 +1,17 @@
+
+[
+    {
+      "id": 1,
+      "name": "Yoga Class",
+      "description": "A relaxing yoga class for all levels.",
+      "date": "2024-07-20",
+      "time": "10:00"
+    },
+    {
+      "id": 2,
+      "name": "Art Workshop",
+      "description": "Learn painting techniques.",
+      "date": "2024-07-21",
+      "time": "14:00"
+    }
+  ]
